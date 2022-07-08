@@ -1,6 +1,6 @@
 body {
   background: rgba(0,0,0,0.9);
-  font-family: Sans-serif;
+  font-family: Roboto;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -16,7 +16,7 @@ header {
 button, input[type=submit], .btn {
   background: royalblue;
   color: white !important;
-  font-size: 12px;
+  font-size: 14px;
   padding: 5px 20px;
   border-radius: 2px;
   border: none;
